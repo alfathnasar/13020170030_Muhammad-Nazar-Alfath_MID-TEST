@@ -1,0 +1,741 @@
+<resources>
+    <string name="app_name">Projek 4</string>
+
+    <string-array name="judul">
+        <item>Iron Man</item>
+        <item>The Incredible Hulk</item>
+        <item>Iron Man 2</item>
+        <item>Thor</item>
+        <item>Captain America: The First Avenger</item>
+        <item>The Avenger</item>
+        <item>Iron Man 3</item>
+        <item>Thor: The Dark World</item>
+        <item>Captain America: The Winter Soldier</item>
+        <item>Guardians Of The Galaxy</item>
+        <item>Avengers: Age Of Ultron</item>
+        <item>Ant-Man</item>
+        <item>Captain America: Civil War</item>
+        <item>Doctor Strange</item>
+        <item>Guardians Of The Galaxy Vol.2</item>
+        <item>Spider-Man: Homecoming</item>
+        <item>Thor: Ragnarok</item>
+        <item>Black Panther</item>
+        <item>Avengers: Infinity War</item>
+        <item>Ant-Man and the Wasp</item>
+        <item>Captain Marvel</item>
+        <item>Avenger: Endgame</item>
+        <item>Spider-Man: Far From Home</item>
+    </string-array>
+
+    <array name="photo">
+        <item>@drawable/ironman</item>
+        <item>@drawable/hulk2</item>
+        <item>@drawable/ironman2</item>
+        <item>@drawable/thor</item>
+        <item>@drawable/captainamerica</item>
+        <item>@drawable/avengers</item>
+        <item>@drawable/ironman3</item>
+        <item>@drawable/thor2</item>
+        <item>@drawable/captainamerica2</item>
+        <item>@drawable/guardiansofthegalaxy</item>
+        <item>@drawable/avengers2</item>
+        <item>@drawable/antman</item>
+        <item>@drawable/captainamerica3</item>
+        <item>@drawable/doctorstrange</item>
+        <item>@drawable/guardiansofthegalaxy2</item>
+        <item>@drawable/spiderman1</item>
+        <item>@drawable/thor3</item>
+        <item>@drawable/blackpanther</item>
+        <item>@drawable/avengers3</item>
+        <item>@drawable/antman2</item>
+        <item>@drawable/captainmarvel</item>
+        <item>@drawable/avengers4</item>
+        <item>@drawable/spiderman2</item>
+    </array>
+
+    <string-array name="desc">
+        <item>After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.</item>
+        <item>Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper.</item>
+        <item>With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his fathers legacy</item>
+        <item>The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.</item>
+        <item>Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a "Super-Soldier serum". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.</item>
+        <item>Earths mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.</item>
+        <item>When Tony Starks world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.</item>
+        <item>When the Dark Elves attempt to plunge the universe into darkness, Thor must embark on a perilous and personal journey that will reunite him with doctor Jane Foster.</item>
+        <item>As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.</item>
+        <item>A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.</item>
+        <item>When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and its up to Earths mightiest heroes to stop the villainous Ultron from enacting his terrible plan.</item>
+        <item>Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.</item>
+        <item>Political involvement in the Avengers affairs causes a rift between Captain America and Iron Man.</item>
+        <item>While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.</item>
+        <item>The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lords encounter with his father the ambitious celestial being Ego.</item>
+        <item>Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.</item>
+        <item>Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.</item>
+        <item>TChalla, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his countrys past.</item>
+        <item>The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.</item>
+        <item>As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.</item>
+        <item>Carol Danvers becomes one of the universes most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.</item>
+        <item>After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos actions and restore balance to the universe.</item>
+        <item>Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Comedy</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Comedy</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Action, Adventure, Comedy</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Comedy</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Comedy</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Drama</item>
+        <item>Action, Adventure, Sci-Fi</item>
+    </string-array>
+    
+    <string-array name="durasi">
+        <item>126 min</item>
+        <item>112 min</item>
+        <item>124 min</item>
+        <item>115 min</item>
+        <item>124 min</item>
+        <item>143 min</item>
+        <item>130 min</item>
+        <item>112 min</item>
+        <item>136 min</item>
+        <item>121 min</item>
+        <item>141 min</item>
+        <item>117 min</item>
+        <item>147 min</item>
+        <item>145 min</item>
+        <item>136 min</item>
+        <item>133 min</item>
+        <item>130 min</item>
+        <item>134 min</item>
+        <item>149 min</item>
+        <item>118 min</item>
+        <item>123 min</item>
+        <item>181 min</item>
+        <item>129 min</item>
+    </string-array>
+
+    <string-array name="sutradara">
+        <item>Jon Favreau</item>
+        <item>Lois Leterrier</item>
+        <item>Jon Favreau</item>
+        <item>Kenneth Branagh</item>
+        <item>Joe Johnston</item>
+        <item>Joss Whedon</item>
+        <item>Shane Black</item>
+        <item>Alan Taylor</item>
+        <item>Anthony Russo, Joe Russo</item>
+        <item>James Gunn</item>
+        <item>Joss Whedon</item>
+        <item>Peyton Reed</item>
+        <item>Anthony Russo, Joe Russo</item>
+        <item>Scott Derrickson</item>
+        <item>James Gunn</item>
+        <item>Jon Watts</item>
+        <item>Taika Waititi</item>
+        <item>Ryan Coogler</item>
+        <item>Anthony Russo, Joe Russo</item>
+        <item>Peyton Reed</item>
+        <item>Anna Boden, Ryan Fleck</item>
+        <item>Anthony Russo, Joe Russo</item>
+        <item>Jon Watts</item>
+    </string-array>
+
+    <string-array name="tahun">
+        <item>2008</item>
+        <item>2008</item>
+        <item>2010</item>
+        <item>2011</item>
+        <item>2011</item>
+        <item>2012</item>
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2017</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+    </string-array>
+
+    <string-array name="ironman">
+        <item>Robert Downney Jr.</item>
+        <item>Gwyneth Paltrow</item>
+        <item>Terrence Howard</item>
+        <item>Jon Favrau</item>
+        <item>Jeff Bridges</item>
+        <item>Faran Tahir</item>
+        <item>Shaun Tob</item>
+    </string-array>
+
+    <array name="castironman">
+        <item>@drawable/rdj</item>
+        <item>@drawable/gwyneth</item>
+        <item>@drawable/terrence</item>
+        <item>@drawable/jon</item>
+        <item>@drawable/jeff</item>
+        <item>@drawable/faran</item>
+        <item>@drawable/shaun</item>
+    </array>
+
+    <string-array name="ironman2">
+        <item>Robert Downey Jr.</item>
+        <item>Gwyneth Paltrow</item>
+        <item>Don Cheadle</item>
+        <item>Jon Favrau</item>
+        <item>Scarlett Johansson</item>
+        <item>Mickey Rourke</item>
+        <item>Sam Rockwell</item>
+    </string-array>
+
+    <array name="castironman2">
+        <item>@drawable/rdj</item>
+        <item>@drawable/gwyneth</item>
+        <item>@drawable/don</item>
+        <item>@drawable/jon</item>
+        <item>@drawable/scarlett</item>
+        <item>@drawable/mickey</item>
+        <item>@drawable/sam</item>
+    </array>
+
+    <string-array name="hulk">
+        <item>Edward Norton</item>
+        <item>Liv Tyler</item>
+        <item>Tim Roth</item>
+        <item>William Hurt</item>
+        <item>Tim Blake Nelson</item>
+    </string-array>
+
+    <array name="casthulk">
+        <item>@drawable/edward</item>
+        <item>@drawable/liv</item>
+        <item>@drawable/tim</item>
+        <item>@drawable/william</item>
+        <item>@drawable/timb</item>
+    </array>
+
+    <string-array name="thor">
+        <item>Chris Hemsworth</item>
+        <item>Tom Hiddleston</item>
+        <item>Natalie Portman</item>
+        <item>Idris Elba</item>
+        <item>Anthony Hopkins</item>
+        <item>Stellan Skarsgard</item>
+        <item>Kat Dennings</item>
+        <item>Rene Russo</item>
+    </string-array>
+
+    <array name="castthor">
+        <item>@drawable/chrish</item>
+        <item>@drawable/tomh</item>
+        <item>@drawable/natalie</item>
+        <item>@drawable/idris</item>
+        <item>@drawable/anthonyh</item>
+        <item>@drawable/stellan</item>
+        <item>@drawable/kat</item>
+        <item>@drawable/rene</item>
+    </array>
+
+    <string-array name="captain1">
+        <item>Chris Evans</item>
+        <item>Hayley Atwell</item>
+        <item>Dominic Cooper</item>
+        <item>Hugo Weaving</item>
+        <item>Sebastian Stan</item>
+        <item>Toby Jones</item>
+    </string-array>
+
+    <array name="castcaptain1">
+        <item>@drawable/chrise</item>
+        <item>@drawable/hayley</item>
+        <item>@drawable/dominic</item>
+        <item>@drawable/hugo</item>
+        <item>@drawable/sebastian</item>
+        <item>@drawable/arnim</item>
+    </array>
+
+    <string-array name="avengers1">
+        <item>Robert Downey Jr.</item>
+        <item>Chris Evans</item>
+        <item>Chris Hemsworth</item>
+        <item>Jeremy Renner</item>
+        <item>Mark Ruffalo</item>
+        <item>Scarlett Johansson</item>
+        <item>Tom Hiddleston</item>
+        <item>Samuel L. Jackson</item>
+        <item>Cobie Smulders</item>
+    </string-array>
+
+    <array name="castavenger1">
+        <item>@drawable/rdj</item>
+        <item>@drawable/chrise</item>
+        <item>@drawable/chrish</item>
+        <item>@drawable/jeremy</item>
+        <item>@drawable/mark</item>
+        <item>@drawable/scarlett</item>
+        <item>@drawable/tomh</item>
+        <item>@drawable/samuel</item>
+        <item>@drawable/cobie</item>
+    </array>
+
+    <string-array name="ironman3">
+        <item>Robert Downey Jr.</item>
+        <item>Gwyneth Paltrow</item>
+        <item>Don Cheadle</item>
+        <item>Jon Favrau</item>
+        <item>Guy Pearce</item>
+        <item>Ben Kingsley</item>
+        <item>Ty Simpkins</item>
+        <item>Rebecca Hall</item>
+    </string-array>
+
+
+    <array name="castironman3">
+        <item>@drawable/rdj</item>
+        <item>@drawable/gwyneth</item>
+        <item>@drawable/don</item>
+        <item>@drawable/jon</item>
+        <item>@drawable/guy</item>
+        <item>@drawable/ben</item>
+        <item>@drawable/ty</item>
+        <item>@drawable/rebecca</item>
+    </array>
+
+    <string-array name="thor2">
+        <item>Chris Hemsworth</item>
+        <item>Tom Hiddleston</item>
+        <item>Natalie Portman</item>
+        <item>Idris Elba</item>
+        <item>Cristopher Eccleston</item>
+        <item>Anthony Hopkins</item>
+        <item>Stellan Skarsgard</item>
+        <item>Kat Dennings</item>
+        <item>Rene Russo</item>
+    </string-array>
+
+    <array name="castthor2">
+        <item>@drawable/chrish</item>
+        <item>@drawable/tomh</item>
+        <item>@drawable/natalie</item>
+        <item>@drawable/idris</item>
+        <item>@drawable/christopher</item>
+        <item>@drawable/anthonyh</item>
+        <item>@drawable/stellan</item>
+        <item>@drawable/kat</item>
+        <item>@drawable/rene</item>
+    </array>
+
+    <string-array name="captain2">
+        <item>Chris Evans</item>
+        <item>Scarletl Johansson</item>
+        <item>Anthony Mackie</item>
+        <item>Emily Van Camp</item>
+        <item>Frank Grillo</item>
+        <item>Sebastian Stan</item>
+        <item>Samuel L. Jackson</item>
+        <item>Cobie Smulder</item>
+        <item>Robert Redford</item>
+    </string-array>
+
+    <array name="castcaptain2">
+        <item>@drawable/chrise</item>
+        <item>@drawable/scarlett</item>
+        <item>@drawable/anthonym</item>
+        <item>@drawable/emily</item>
+        <item>@drawable/frank</item>
+        <item>@drawable/sebastian</item>
+        <item>@drawable/samuel</item>
+        <item>@drawable/cobie</item>
+        <item>@drawable/redford</item>
+    </array>
+
+    <string-array name="gotg">
+        <item>Chris Pratt</item>
+        <item>Zoe Zaldana</item>
+        <item>Dave Bautista</item>
+        <item>Karen Gillan</item>
+        <item>Bradley Cooper</item>
+        <item>Vin Diesel</item>
+        <item>Michael Rooker</item>
+        <item>Lee Pace</item>
+        <item>Djimon Hounsou</item>
+    </string-array>
+
+    <array name="castgotg">
+        <item>@drawable/chrisp</item>
+        <item>@drawable/zoe</item>
+        <item>@drawable/dave</item>
+        <item>@drawable/karen</item>
+        <item>@drawable/bradley</item>
+        <item>@drawable/vin</item>
+        <item>@drawable/michael</item>
+        <item>@drawable/lee</item>
+        <item>@drawable/djimon</item>
+    </array>
+
+    <string-array name="avengers2">
+        <item>Robert Downey Jr.</item>
+        <item>Chris Evans</item>
+        <item>Chris Hemsworth</item>
+        <item>Jeremy Renner</item>
+        <item>Mark Ruffalo</item>
+        <item>Scarlett Johansson</item>
+        <item>Samuel L. Jackson</item>
+        <item>Cobie Smulders</item>
+        <item>James Spader</item>
+        <item>Elizabeth Olsen</item>
+        <item>Aaron Taylor-Johnson</item>
+        <item>Andy Serkis</item>
+        <item>Paul Bettany</item>
+    </string-array>
+
+    <array name="castavenger2">
+        <item>@drawable/rdj</item>
+        <item>@drawable/chrise</item>
+        <item>@drawable/chrish</item>
+        <item>@drawable/jeremy</item>
+        <item>@drawable/mark</item>
+        <item>@drawable/scarlett</item>
+        <item>@drawable/samuel</item>
+        <item>@drawable/cobie</item>
+        <item>@drawable/james</item>
+        <item>@drawable/elizabeth</item>
+        <item>@drawable/aaron</item>
+        <item>@drawable/andy</item>
+        <item>@drawable/paul</item>
+    </array>
+
+    <string-array name="antman">
+        <item>Paul Rudd</item>
+        <item>Evangeline Lilly</item>
+        <item>Michael Pena</item>
+        <item>Michael Douglas</item>
+        <item>Correy Stoll</item>
+        <item>David Dastmalchian</item>
+        <item>T.I</item>
+    </string-array>
+
+    <array name="castantman">
+        <item>@drawable/paulr</item>
+        <item>@drawable/evangelina</item>
+        <item>@drawable/michaelp</item>
+        <item>@drawable/michaeld</item>
+        <item>@drawable/corey</item>
+        <item>@drawable/david</item>
+        <item>@drawable/ti</item>
+    </array>
+
+    <string-array name="captain3">
+        <item>Chris Evans</item>
+        <item>Anthony Mackie</item>
+        <item>Sebastian Stan</item>
+        <item>Elizabeth Olsen</item>
+        <item>Jeremy Renner</item>
+        <item>Paul Rudd</item>
+        <item>Robert Downey. Jr</item>
+        <item>Scarlett Johansson</item>
+        <item>Don Cheadle</item>
+        <item>Paul Bettany</item>
+        <item>Chadwick Boseman</item>
+        <item>Tom Holland</item>
+        <item>Daniel Bruhl</item>
+    </string-array>
+
+    <array name="castcaptain3">
+        <item>@drawable/chrise</item>
+        <item>@drawable/anthonym</item>
+        <item>@drawable/sebastian</item>
+        <item>@drawable/elizabeth</item>
+        <item>@drawable/jeremy</item>
+        <item>@drawable/paulr</item>
+        <item>@drawable/rdj</item>
+        <item>@drawable/scarlett</item>
+        <item>@drawable/don</item>
+        <item>@drawable/paul</item>
+        <item>@drawable/chadwick</item>
+        <item>@drawable/tomho</item>
+        <item>@drawable/danie</item>
+    </array>
+
+    <string-array name="doctorstrange">
+        <item>Benedict Cumberbatch</item>
+        <item>Rachel McAdams</item>
+        <item>Tilda Swinton</item>
+        <item>Mads Mikkelsen</item>
+        <item>Chiwetel Ejiofor</item>
+        <item>Benedict Wong</item>
+    </string-array>
+
+    <array name="castdoctorstrange">
+        <item>@drawable/benedict</item>
+        <item>@drawable/rachel</item>
+        <item>@drawable/tilda</item>
+        <item>@drawable/mads</item>
+        <item>@drawable/chiwetel</item>
+        <item>@drawable/wong</item>
+    </array>
+
+    <string-array name="gotg2">
+        <item>Chris Pratt</item>
+        <item>Zoe Zaldana</item>
+        <item>Dave Bautista</item>
+        <item>Karen Gillan</item>
+        <item>Bradley Cooper</item>
+        <item>Vin Diesel</item>
+        <item>Michael Rooker</item>
+        <item>Kurt Russel</item>
+        <item>Pom Klementieff</item>
+        <item>Elizabeth Debicki</item>
+    </string-array>
+
+    <array name="castgotg2">
+        <item>@drawable/chrisp</item>
+        <item>@drawable/zoe</item>
+        <item>@drawable/dave</item>
+        <item>@drawable/karen</item>
+        <item>@drawable/bradley</item>
+        <item>@drawable/vin</item>
+        <item>@drawable/michael</item>
+        <item>@drawable/kurt</item>
+        <item>@drawable/pom</item>
+        <item>@drawable/elizabethd</item>
+    </array>
+
+    <string-array name="spiderman">
+        <item>Tom Holland</item>
+        <item>Zendaya</item>
+        <item>Marisa Tomei</item>
+        <item>Laura Harrier</item>
+        <item>Michael Keaton</item>
+        <item>Jacob Batalon</item>
+    </string-array>
+
+    <array name="castspiderman">
+        <item>@drawable/tomho</item>
+        <item>@drawable/zendaya</item>
+        <item>@drawable/marisa</item>
+        <item>@drawable/laura</item>
+        <item>@drawable/michaelk</item>
+        <item>@drawable/jacob</item>
+    </array>
+
+    <string-array name="thor3">
+        <item>Chris Hemsworth</item>
+        <item>Tom Hiddleston</item>
+        <item>Tessa Thompson</item>
+        <item>Mark Ruffalo</item>
+        <item>Cate Blanchett</item>
+        <item>Jeff Goldblum</item>
+        <item>Taika Waititi</item>
+        <item>Karl Urban</item>
+    </string-array>
+
+    <array name="castthor3">
+        <item>@drawable/chrish</item>
+        <item>@drawable/tomh</item>
+        <item>@drawable/tessa</item>
+        <item>@drawable/mark</item>
+        <item>@drawable/cate</item>
+        <item>@drawable/jeff</item>
+        <item>@drawable/taika</item>
+        <item>@drawable/karl</item>
+    </array>
+
+    <string-array name="blackpanther">
+        <item>Chadwick Boseman</item>
+        <item>Michael B. Jordan</item>
+        <item>Danai Gurira</item>
+        <item>Lupita Nyong o</item>
+        <item>Letitia Wright</item>
+        <item>Winston Duke</item>
+        <item>Andy Serkis</item>
+        <item>Martin Freeman</item>
+    </string-array>
+
+    <array name="castblackpanther">
+        <item>@drawable/chadwick</item>
+        <item>@drawable/michaelj</item>
+        <item>@drawable/danai</item>
+        <item>@drawable/lupita</item>
+        <item>@drawable/letitia</item>
+        <item>@drawable/winston</item>
+        <item>@drawable/andy</item>
+        <item>@drawable/martin</item>
+    </array>
+
+    <string-array name="avenger3">
+        <item>Josh Brolin</item>
+        <item>Chris Evans</item>
+        <item>Anthony Mackie</item>
+        <item>Sebastian Stan</item>
+        <item>Elizabeth Olsen</item>
+        <item>Jeremy Renner</item>
+        <item>Robert Downey. Jr</item>
+        <item>Scarlett Johansson</item>
+        <item>Mark Ruffalo</item>
+        <item>Chris Hemsworth</item>
+        <item>Don Cheadle</item>
+        <item>Paul Bettany</item>
+        <item>Chadwick Boseman</item>
+        <item>Tom Holland</item>
+        <item>Chris Pratt</item>
+        <item>Zoe Zaldana</item>
+        <item>Dave Bautista</item>
+        <item>Karen Gillan</item>
+        <item>Bradley Cooper</item>
+        <item>Vin Diesel</item>
+        <item>Benedict Cumberbatch</item>
+        <item>Benedict Wong</item>
+    </string-array>
+
+    <array name="castavenger3">
+        <item>@drawable/josh</item>
+        <item>@drawable/chrise</item>
+        <item>@drawable/anthonym</item>
+        <item>@drawable/sebastian</item>
+        <item>@drawable/elizabeth</item>
+        <item>@drawable/jeremy</item>
+        <item>@drawable/rdj</item>
+        <item>@drawable/scarlett</item>
+        <item>@drawable/mark</item>
+        <item>@drawable/chrish</item>
+        <item>@drawable/don</item>
+        <item>@drawable/paul</item>
+        <item>@drawable/chadwick</item>
+        <item>@drawable/tomho</item>
+        <item>@drawable/chrisp</item>
+        <item>@drawable/zoe</item>
+        <item>@drawable/dave</item>
+        <item>@drawable/karen</item>
+        <item>@drawable/bradley</item>
+        <item>@drawable/vin</item>
+        <item>@drawable/benedict</item>
+        <item>@drawable/wong</item>
+    </array>
+
+    <string-array name="antman2">
+        <item>Paul Rudd</item>
+        <item>Evangeline Lilly</item>
+        <item>Hannah john-Kamen</item>
+        <item>Michelle Pfeiffer</item>
+        <item>Walton Goggins</item>
+        <item>Michael Pena</item>
+        <item>Michael Douglas</item>
+        <item>Laurence Fishburne</item>
+        <item>David Dastmalchian</item>
+        <item>T.I</item>
+    </string-array>
+
+    <array name="castantman2">
+        <item>@drawable/paulr</item>
+        <item>@drawable/evangelina</item>
+        <item>@drawable/hannah</item>
+        <item>@drawable/michellepf</item>
+        <item>@drawable/walton</item>
+        <item>@drawable/michaelp</item>
+        <item>@drawable/michaeld</item>
+        <item>@drawable/laurence</item>
+        <item>@drawable/david</item>
+        <item>@drawable/ti</item>
+    </array>
+
+    <string-array name="captainmarvel">
+        <item>Brie Larson</item>
+        <item>Jude Law</item>
+        <item>Ben Mendelshon</item>
+        <item>Samuel L. Jackson</item>
+        <item>Gemma Chan</item>
+        <item>Djimon Hounsou</item>
+        <item>Annete Benning</item>
+        <item>Lashana Lynch</item>
+    </string-array>
+
+    <array name="castcaptainmarvel">
+        <item>@drawable/brie</item>
+        <item>@drawable/jude</item>
+        <item>@drawable/benm</item>
+        <item>@drawable/samuel</item>
+        <item>@drawable/gemma</item>
+        <item>@drawable/djimon</item>
+        <item>@drawable/annete</item>
+        <item>@drawable/lashana</item>
+    </array>
+
+    <string-array name="avenger4">
+        <item>Josh Brolin</item>
+        <item>Chris Evans</item>
+        <item>Jeremy Renner</item>
+        <item>Robert Downey. Jr</item>
+        <item>Mark Rufallo</item>
+        <item>Chris Hemsworth</item>
+        <item>Scarlett Johansson</item>
+        <item>Don Cheadle</item>
+        <item>Karen Gillan</item>
+        <item>Bradley Cooper</item>
+        <item>Brie Larson</item>
+        <item>Danai Gurira</item>
+        <item>Paul Rudd</item>
+    </string-array>
+
+    <array name="castavenger4">
+        <item>@drawable/josh</item>
+        <item>@drawable/chrise</item>
+        <item>@drawable/jeremy</item>
+        <item>@drawable/rdj</item>
+        <item>@drawable/mark</item>
+        <item>@drawable/chrish</item>
+        <item>@drawable/scarlett</item>
+        <item>@drawable/don</item>
+        <item>@drawable/karen</item>
+        <item>@drawable/bradley</item>
+        <item>@drawable/brie</item>
+        <item>@drawable/danai</item>
+        <item>@drawable/paulr</item>
+    </array>
+
+    <string-array name="spiderman2">
+        <item>Tom Holland</item>
+        <item>Zendaya</item>
+        <item>Marisa Tomei</item>
+        <item>Jake</item>
+        <item>Samuel L. Jackson</item>
+        <item>Jon Favreau</item>
+        <item>Jacob Batalon</item>
+    </string-array>
+
+    <array name="castspiderman2">
+        <item>@drawable/tomho</item>
+        <item>@drawable/zendaya</item>
+        <item>@drawable/marisa</item>
+        <item>@drawable/jake</item>
+        <item>@drawable/samuel</item>
+        <item>@drawable/jon</item>
+        <item>@drawable/jacob</item>
+    </array>
+</resources>
+
